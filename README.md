@@ -16,6 +16,8 @@ https://instagram.com/theuicode/
 
 https://twitter.com/theuicode
 
+https://www.linkedin.com/company/78783109
+
 UI Design: https://www.pinterest.com/pin/494903446560578793/
 
 Source code: https://github.com/ui-code/ModernLoginPage
